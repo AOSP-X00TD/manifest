@@ -11,6 +11,10 @@
           revision="twelve-plus"
           review="gerrit.pixelexperience.org" />
 
+  <remote name="lineage"
+          fetch="https://github.com/LineageOS"
+          revision="lineage-19.1-caf-msm8998" />
+
   <remote name="pixel-gitlab"
           fetch="https://gitlab.com/PixelExperience/twelve"
           revision="twelve" />
